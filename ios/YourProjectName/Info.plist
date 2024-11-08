@@ -48,5 +48,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>CodePushServerURL</key>
+	<string>http://localhost:3000</string>
 </dict>
 </plist>
